@@ -10,5 +10,9 @@ Aplikasi presensi siswa untuk sekolah SMKN 1 Ciamis menggunakan Flutter. Fitur:
 - Halaman profil.
 - One device per user.
 
+## NOTES
+
+Jika kalian bingung download yang mana, pilih yang ada "universal" di nama file-nya.
+
 ![Screenshot](ss.jpg)
 _Screenshot isi aplikasi_
